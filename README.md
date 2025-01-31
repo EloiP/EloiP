@@ -1,5 +1,10 @@
 ## Nadine Sinn
-
+<br>
+<br>
+<!-- Banner -->
+<p align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&section=footer&textBg=false" alt="Nadine Sinn Banner"/>
+</p>
 <!--
 **EloiP/EloiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
